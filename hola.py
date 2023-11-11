@@ -1,1 +1,8 @@
 print("leonardo")
+print("Luis Manuel Lepe")
+print("Bryan M.")
+print("Carlos")
+print("Edmundo Isaac")
+print("Daniel Alcaraz")
+print("leonardo")
+print("Jennifer")
